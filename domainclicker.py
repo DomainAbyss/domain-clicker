@@ -608,7 +608,7 @@ class App(ctk.CTk):
             self._refresh_count()
         else:
             if self.play: self.stop_play(); time.sleep(0.15)
-            self.rec = True
+            self.rec = True; print("DEBUG: Recording started, listeners active")
             self.actions = []
             self.t0 = time.time()
             self._drag_start_pos = None
