@@ -33,9 +33,6 @@ cd domain-clicker
 
 # Install dependencies
 pip install -r requirements.txt
-
-# Run
-python domainclicker.py
 ```
 
 No API keys. No accounts. Just Python.
