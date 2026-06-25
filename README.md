@@ -29,7 +29,7 @@ Advanced macro recorder and player for Windows. Record mouse movements, clicks, 
 ```bash
 # Clone
 git clone https://github.com/DomainAbyss/domain-clicker.git
-
+cd domain-clicker
 # Install dependencies
 pip install -r requirements.txt
 ```
